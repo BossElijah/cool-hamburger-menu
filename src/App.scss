@@ -1,0 +1,47 @@
+body {
+  background: #001c42;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.hamburger {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 200;
+  height: 100px;
+  width: 100px;
+  transition: 0.3s;
+
+
+  @media (hover: hover) {
+    &:hover {
+      transform: translate(-50%, -50%) scale(1.5);
+
+      path {
+        fill: #05b5f5;
+      }
+
+      .circle {
+        display: none;
+      }
+    }
+  }
+
+  &.menu-open {
+    circle {
+      fill: hsla(0, 0, 0, 0);
+    }
+
+    @media (hover: hover) {
+      &:hover {
+        transform: translate(-50%, -50%) scale(1.5) rotate(90deg);
+      }
+    }
+  }
+}
