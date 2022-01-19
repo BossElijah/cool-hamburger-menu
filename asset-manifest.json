@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cool-hamburger-menu/static/css/main.bef43c86.chunk.css",
-    "main.js": "/cool-hamburger-menu/static/js/main.8f38eb55.chunk.js",
-    "main.js.map": "/cool-hamburger-menu/static/js/main.8f38eb55.chunk.js.map",
+    "main.css": "/cool-hamburger-menu/static/css/main.301b315c.chunk.css",
+    "main.js": "/cool-hamburger-menu/static/js/main.91a4bb42.chunk.js",
+    "main.js.map": "/cool-hamburger-menu/static/js/main.91a4bb42.chunk.js.map",
     "runtime-main.js": "/cool-hamburger-menu/static/js/runtime-main.f3f127f6.js",
     "runtime-main.js.map": "/cool-hamburger-menu/static/js/runtime-main.f3f127f6.js.map",
-    "static/js/2.6c19248b.chunk.js": "/cool-hamburger-menu/static/js/2.6c19248b.chunk.js",
-    "static/js/2.6c19248b.chunk.js.map": "/cool-hamburger-menu/static/js/2.6c19248b.chunk.js.map",
+    "static/js/2.5d67889f.chunk.js": "/cool-hamburger-menu/static/js/2.5d67889f.chunk.js",
+    "static/js/2.5d67889f.chunk.js.map": "/cool-hamburger-menu/static/js/2.5d67889f.chunk.js.map",
     "static/js/3.34d21064.chunk.js": "/cool-hamburger-menu/static/js/3.34d21064.chunk.js",
     "static/js/3.34d21064.chunk.js.map": "/cool-hamburger-menu/static/js/3.34d21064.chunk.js.map",
     "index.html": "/cool-hamburger-menu/index.html",
-    "static/css/main.bef43c86.chunk.css.map": "/cool-hamburger-menu/static/css/main.bef43c86.chunk.css.map",
-    "static/js/2.6c19248b.chunk.js.LICENSE.txt": "/cool-hamburger-menu/static/js/2.6c19248b.chunk.js.LICENSE.txt"
+    "static/css/main.301b315c.chunk.css.map": "/cool-hamburger-menu/static/css/main.301b315c.chunk.css.map",
+    "static/js/2.5d67889f.chunk.js.LICENSE.txt": "/cool-hamburger-menu/static/js/2.5d67889f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f3f127f6.js",
-    "static/js/2.6c19248b.chunk.js",
-    "static/css/main.bef43c86.chunk.css",
-    "static/js/main.8f38eb55.chunk.js"
+    "static/js/2.5d67889f.chunk.js",
+    "static/css/main.301b315c.chunk.css",
+    "static/js/main.91a4bb42.chunk.js"
   ]
 }
